@@ -320,7 +320,7 @@ Don't forget to give the project a star! Thanks again!
 
 Innis - [mohit.24scse1011543@galgotiasuniversity.ac.in](mohit.24scse1011543@galgotiasuniversity.ac.in) - https://www.enjoycoding.me/
 
-Kai Kiat - [mohit.24scse1011543@galgotiasuniversity.ac.in](mohit.24scse1011543@galgotiasuniversity.ac.in) - https://github.com/Kaikiat1126
+Kai Kiat - [mohit.24scse1011543@galgotiasuniversity.ac.in](mohit.24scse1011543@galgotiasuniversity.ac.in) - https://github.com/Mohit001-cell/carrentalsystemjava.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
