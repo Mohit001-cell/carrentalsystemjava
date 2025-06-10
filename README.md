@@ -318,9 +318,9 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Innis - [yuenci1575270674@gmail.com](yuenci1575270674@gmail.com) - https://www.enjoycoding.me/
+Innis - [mohit.24scse1011543@galgotiasuniversity.ac.in](mohit.24scse1011543@galgotiasuniversity.ac.in) - https://www.enjoycoding.me/
 
-Kai Kiat - [tyukaikiat0211626@gmail.com](tyukaikiat0211626@gmail.com) - https://github.com/Kaikiat1126
+Kai Kiat - [mohit.24scse1011543@galgotiasuniversity.ac.in](mohit.24scse1011543@galgotiasuniversity.ac.in) - https://github.com/Kaikiat1126
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
